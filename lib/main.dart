@@ -32,7 +32,7 @@ class _HomeState extends State<Home> {
   void _calculateBMI(){
     setState(() {
       double weight = double.parse(weightController.text);
-      double height = double.parse(heightController.text );
+      double height = double.parse(heightController.text )/100;
 
       double bmi = weight / (height * height);
 
