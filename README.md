@@ -1,4 +1,4 @@
-# calcular_imc
+# Calculator BMI
 
 This application calculates a person's BMI and returns the type of obesity.
 
