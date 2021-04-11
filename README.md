@@ -7,6 +7,7 @@ This application calculates a person's BMI and returns the type of obesity.
 </p>
 
 ## Used technologies
+- ✔ Git.
 - ✔ Dart.
 - ✔ Flutter.
 - ✔ Android Studio.
